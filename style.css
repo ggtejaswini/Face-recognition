@@ -1,0 +1,17 @@
+body{
+    background-color:#FFF9CA;
+    color: cadetblue;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.objects,#object_name,#object_accuracy{
+    color: darkslateblue;
+}
+#camera{
+    border: 2px dashed #B2A4FF;
+    width: 350px;
+    height: 300px;
+}
